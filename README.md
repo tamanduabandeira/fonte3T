@@ -4,5 +4,5 @@ Esquemático de uma fonte de alimentação simples com três tensões de saída 
 
 |  Fonte3T  |
 | :-------: |
-| ![Esquemático] (https://github.com/tamanduabandeira/fonte3T/blob/main/fonte3T.PNG) |
+| ![Esquemático] (https://github.com/tamanduabandeira/fonte3T/blob/main/fonte3T.png)|
 | Fonte: Rian M. e Maurício F.
